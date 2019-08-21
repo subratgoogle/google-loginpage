@@ -118,7 +118,7 @@ input:checked + .slider:before {
   width: 75%;
   background: #00AEEF;
 }
-/* .social-login{
+ .social-login{
   margin-top: 25px
 }
 .social-login .btn-group{
@@ -150,12 +150,7 @@ input:checked + .slider:before {
 .social-login .btn-group{
   margin:1em;
 }
-.sign-up{
-  color:#ddd;
-}
-.sign-up a{
-  color:#007CFF;
-} */
+
 @media(max-width:768px){
   .form{
     width:100%;
